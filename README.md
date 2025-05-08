@@ -40,5 +40,5 @@ Hi! My name is Giovanni and this is one of my project about data analysis, focus
 
 ---
 
-⭐ If you liked this project, don't forget to leave a star!
+⭐ If you found this analysis useful or insightful, feel free to star the repository!
 
